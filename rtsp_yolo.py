@@ -31,8 +31,8 @@ TARGET_SIZE = (640, 480)  # Оптимальный размер для YOLOv8n
 # Классы YOLOv8n (COCO), нас интересуют только эти:
 CLASS_NAMES = {
     0: "person",
-    14: "dog",
-    15: "cat"
+    15: "cat",
+    16: "dog",
     # 1: "bicycle",
     # 2: "car",
     # 3: "motorcycle",
